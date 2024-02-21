@@ -11,7 +11,7 @@ I'm currently a final-year software engineering student at Carleton University. 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvaethyneill) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Languages<br>
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
