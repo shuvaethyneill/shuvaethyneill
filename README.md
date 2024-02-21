@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Shuvaethy</h1>
+<h1 align="center">Hi 👋, I'm Shuvaethy!</h1>
 
 ## 🌱 About Me:
 I'm currently a final-year software engineering student at Carleton University. I'm always looking to grow and challenge myself by learning new things. My journey has led me through diverse internships in mobile iOS development, full-stack development, and QA testing. Overall, I'm passionate about creating innovative solutions that positively impact users.
