@@ -6,7 +6,7 @@ I'm currently a final-year software engineering student at Carleton University. 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building an iOS application for my final-year capstone project (Mobile Ogel)
+- 💻 Building an iOS application for my final-year capstone project ([Mobile Ogel](https://github.com/mobileogel/MobileOgelUI))
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvaethyneill) 
