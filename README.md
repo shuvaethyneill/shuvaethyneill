@@ -7,6 +7,7 @@ I'm currently a final-year software engineering student at Carleton University. 
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building an iOS application for my final-year capstone project ([Mobile Ogel](https://github.com/mobileogel/MobileOgelUI))
+- 🔨 Learning [React](https://react.dev/) to expand my web dev knowledge
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvaethyneill) 
