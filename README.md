@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvaethy!</h1>
 
 ## 🌱 About Me:
-I'm currently a final-year software engineering student at Carleton University. My journey has led me through diverse internships in mobile iOS development, full-stack development, and automation testing. Overall, I'm passionate about creating innovative solutions that positively impact users and I'm always looking to grow and challenge myself by learning new things!
+I'm recent software engineering graduate from Carleton University. My journey has led me through diverse internships in mobile iOS development, full-stack development, and automation testing. Overall, I'm passionate about creating innovative solutions that positively impact users and I'm always looking to grow and challenge myself by learning new things!
 
 ## 🚀 What I'm Up To
 
