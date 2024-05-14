@@ -6,7 +6,7 @@ I'm recent software engineering graduate from Carleton University. My journey ha
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building an iOS application for my final-year capstone project ([Mobile Ogel](https://github.com/mobileogel/MobileOgelUI))
+- 💻 Building an iOS application (continuing development of my final-year capstone project)
 - 🔨 Learning [React](https://react.dev/) to expand my web dev knowledge
 
 ## 🌐 Connect with me:
